@@ -1,3 +1,5 @@
+Based on the provided Python code (movingObj.py), which deals with video processing for object detection and analysis, here's a simple README document:
+
 Moving Object Detection and Analysis
 This Python script is designed for detecting and analyzing moving objects within video files. It utilizes OpenCV for processing and analysis, focusing on pedestrian detection, object classification, and distance estimation based on the Y-coordinate in the video frame.
 
@@ -38,3 +40,7 @@ Output
 The script processes the input video and displays a window with the video analysis results. For Task 1, it shows the original video, detected moving objects, and classified objects. For Task 2, it identifies and tracks pedestrians, highlighting the closest ones.
 
 Press Esc key to exit the video display window.
+
+
+
+
